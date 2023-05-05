@@ -132,3 +132,5 @@ dmypy.json
 .vscode/
 *.jpg
 *.zip
+research/stage4.ipynb
+artifacts/prepare_callbacks/tensorboard_log_dir/tensorboard_logs_at2023-05-05-16-36-47/train/events.out.tfevents.1683322609.LAPTOP-J50G0ON6.11416.0.v2
