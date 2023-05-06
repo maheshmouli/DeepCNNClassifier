@@ -1,5 +1,5 @@
 tensorflow
-dvc
+dvc==2.43.2
 pandas
 notebook
 numpy
